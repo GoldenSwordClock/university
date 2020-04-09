@@ -1,2 +1,2 @@
 # university
-codes that write when I am in university
+codes that were written when I am in university
